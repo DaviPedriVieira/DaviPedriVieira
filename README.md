@@ -1,4 +1,4 @@
-### Hi there, I'm Davi 👋
+### Hello, I'm Davi 👋
 
 - 🔭 Currently working at Movtech Systems
 - 🌱 I’m learning JavaScript
