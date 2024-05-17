@@ -2,7 +2,6 @@
 
 - 🔭 Currently working at Movtech Systems
 - 💬 I'm 16
-- 📫 How to reach me: davipedrivieira@gmail.com
 
   ### 🛠️ GitHub Stats
 
